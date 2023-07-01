@@ -1,0 +1,21 @@
+/* Variables */
+:root {
+    --lime: #54e6af;
+    --slate: #2c344b;
+    --navy: #121725;
+    --white: #ffffff;
+    --gray: #5a668a;
+    --light-gray: #c2cbe5;
+    --title-size: 52px;
+    --title-lh: 62px;
+    --font-fam: 'Chivo', sans-serif;
+    --body-size: 18px;
+    --body-lh: 28px;
+}
+
+/* Resets */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
